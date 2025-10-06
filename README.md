@@ -1,19 +1,3 @@
----
-library_name: transformers
-license: apache-2.0
-base_model: openai/whisper-small
-tags:
-- generated_from_trainer
-metrics:
-- wer
-model-index:
-- name: whisper-hi-ft
-  results: []
----
-
-<!-- This model card has been generated automatically according to the information the Trainer had access to. You
-should probably proofread and complete it, then remove this comment. -->
-
 # whisper-hi-ft
 
 This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small) on the None dataset.
