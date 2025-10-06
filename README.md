@@ -1,6 +1,7 @@
 # whisper-hi-ft
 
-This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small) on the None dataset.
+This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small)
+
 It achieves the following results on the evaluation set:
 - Loss: 1.0656
 - Wer: 2.9786
